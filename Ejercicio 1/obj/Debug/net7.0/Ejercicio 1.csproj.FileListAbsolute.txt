@@ -1,0 +1,15 @@
+/workspaces/Ejercicios-de-Repaso/Ejercicio 1/bin/Debug/net7.0/Ejercicio 1
+/workspaces/Ejercicios-de-Repaso/Ejercicio 1/bin/Debug/net7.0/Ejercicio 1.deps.json
+/workspaces/Ejercicios-de-Repaso/Ejercicio 1/bin/Debug/net7.0/Ejercicio 1.runtimeconfig.json
+/workspaces/Ejercicios-de-Repaso/Ejercicio 1/bin/Debug/net7.0/Ejercicio 1.dll
+/workspaces/Ejercicios-de-Repaso/Ejercicio 1/bin/Debug/net7.0/Ejercicio 1.pdb
+/workspaces/Ejercicios-de-Repaso/Ejercicio 1/obj/Debug/net7.0/Ejercicio 1.csproj.AssemblyReference.cache
+/workspaces/Ejercicios-de-Repaso/Ejercicio 1/obj/Debug/net7.0/Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Ejercicios-de-Repaso/Ejercicio 1/obj/Debug/net7.0/Ejercicio 1.AssemblyInfoInputs.cache
+/workspaces/Ejercicios-de-Repaso/Ejercicio 1/obj/Debug/net7.0/Ejercicio 1.AssemblyInfo.cs
+/workspaces/Ejercicios-de-Repaso/Ejercicio 1/obj/Debug/net7.0/Ejercicio 1.csproj.CoreCompileInputs.cache
+/workspaces/Ejercicios-de-Repaso/Ejercicio 1/obj/Debug/net7.0/Ejercicio 1.dll
+/workspaces/Ejercicios-de-Repaso/Ejercicio 1/obj/Debug/net7.0/refint/Ejercicio 1.dll
+/workspaces/Ejercicios-de-Repaso/Ejercicio 1/obj/Debug/net7.0/Ejercicio 1.pdb
+/workspaces/Ejercicios-de-Repaso/Ejercicio 1/obj/Debug/net7.0/Ejercicio 1.genruntimeconfig.cache
+/workspaces/Ejercicios-de-Repaso/Ejercicio 1/obj/Debug/net7.0/ref/Ejercicio 1.dll
