@@ -1,4 +1,4 @@
-﻿int num, valueMatriz, sum = 0;
+﻿int num, sum = 0;
 bool vali = true;
 Random rNumber= new Random();
 do
